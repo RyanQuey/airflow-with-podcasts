@@ -1,0 +1,6 @@
+project:
+  name: astronomer-podcast
+postgres:
+  # https://forum.astronomer.io/t/i-already-have-the-ports-that-the-cli-is-trying-to-use-8080-5432-occupied-can-i-change-the-ports-when-starting-a-project/48
+  # necessary if already have an instance of pg running
+  port: 5433
