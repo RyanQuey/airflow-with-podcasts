@@ -2,7 +2,7 @@
 # Airflow DAGs for my [Podcast Analysis Tool](https://github.com/RyanQuey/java-podcast-processor).
 Intended as a proof of concept, to show how to connect Airflow to a data pipeline.
 
-![Airflow UI Screenshot](https://github.com/RyanQuey/airflow-with-podcasts/raw/master/screenshots/airflow/airflow-ui-dagrun-list-all.png)
+![Airflow UI Screenshot](https://github.com/RyanQuey/airflow-with-podcasts/raw/master/screenshots/airflow/airflow-ui-dag-wide.png)
 
 ## Start the server:
 `astro dev start` 
