@@ -38,5 +38,19 @@ Potentially will get this in the DAG log:
 [2020-06-10 12:20:39,113] {logging_mixin.py:112} INFO - [2020-06-10 12:20:39,113] {local_task_job.py:103} INFO - Task exited with return code 0
 ```
 
+<<<<<<< HEAD
 This means everything is set up correctly, but you don't have DSE/Cassandra running on your local node. 
 
+=======
+And I think that's good enough for a proof of concept. Stopping there for now
+
+# Released under MIT License
+
+Copyright (c) 2020 Ryan Quey.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+>>>>>>> ad87b75083719332bd3c696230bbc467e6b14ced
