@@ -40,10 +40,8 @@ Potentially will get this in the DAG log:
 [2020-06-10 12:20:39,113] {logging_mixin.py:112} INFO - [2020-06-10 12:20:39,113] {local_task_job.py:103} INFO - Task exited with return code 0
 ```
 
-<<<<<<< HEAD
 This means everything is set up correctly, but you don't have DSE/Cassandra running on your local node. 
 
-=======
 And I think that's good enough for a proof of concept. Stopping there for now
 
 # Released under MIT License
